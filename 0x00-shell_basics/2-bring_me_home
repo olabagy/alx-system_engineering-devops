@@ -1,0 +1,4 @@
+#!/bin/bash
+echo " the home directory is: "
+cd /home
+
